@@ -1,7 +1,10 @@
 <h1>Failed RDP to IP Geolocation Information</h1>
 
 
- ### [YouTube Link (@16:20)](https://youtu.be/RoZeVbbZ0o0?t=980)
+ ### [YouTube Links]
+ [Part 1] (https://youtu.be/DvHHfrK9QmU)<br /> 
+ [Part 2] (https://youtu.be/vKreyJEZMII)<br />
+ [Part 3] (https://youtu.be/T7DJh9w-VKA)
 
 
 <h2>Description</h2>
